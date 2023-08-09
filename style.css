@@ -76,6 +76,7 @@ footer{
     display: flex;
     flex-direction: row-reverse;
     align-items: flex-end; 
+    
 }
 
 .direitos{
@@ -113,6 +114,11 @@ figcaption{
 }
 
 .iContainer{
+    display: flex;
+    justify-content: center;
+}
+
+figcaption{
     display: flex;
     justify-content: center;
 }
